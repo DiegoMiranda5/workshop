@@ -12,7 +12,7 @@ int main()
     //DECLARAR EN MATRIZ:
     
     //MATRIZ DE 2X2;
-    // (SI QUIERO DARLE VALORES DENTRO Y YA LE ESTARIA DEFINIENDO EL TAMAÑO)
+    // (SI QUIERO DARLE VALORES DENTRO Y YA LE ESTARIA DEFINIENDO EL TAMAï¿½O)
     //matriz.push_back({ , });
     //matriz.push_back({ , });
     vector<vector<int> > matriz;
@@ -27,3 +27,4 @@ int main()
     }
     return 0;
 }
+esto lo agrego dany en la rama main 
