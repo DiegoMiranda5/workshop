@@ -7,4 +7,8 @@ prueba
 
 
 Este cambio solo lo veran los de la rama Other
+<<<<<<< HEAD:prueba2.txt
 >>>>>>> javi
+=======
+dfdgfdgfngfhgfhgfhgfgh
+>>>>>>> vale:vale.txt
